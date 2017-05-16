@@ -1,0 +1,13 @@
+{
+  "name": "vue-cli-template-webpack",
+  "version": "2.0.0",
+  "license": "MIT",
+  "description": "东方网力为VUE框架制定的项目模板，基于https://github.com/vuejs-templates/webpack",
+  "scripts": {
+    "docs": "cd docs && gitbook serve",
+    "docs:deploy": "bash ./deploy-docs.sh"
+  },
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
