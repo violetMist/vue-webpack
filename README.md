@@ -1,6 +1,6 @@
 # 模板说明：
 
-本模版是东方网力为VUE框架制定的项目模板，基于https://github.com/vuejs-templates/webpack；
+本模版为VUE框架制定的项目模板，基于https://github.com/vuejs-templates/webpack；
 
 # 使用办法
 
@@ -17,7 +17,6 @@ $ npm run dev
 ```
 
 
-X
 # vue-webpack-boilerplate
 
 > A full-featured Webpack setup with hot-reload, lint-on-save, unit testing & css extraction.
